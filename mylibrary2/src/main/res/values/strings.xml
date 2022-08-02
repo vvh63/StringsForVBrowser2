@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_test_string_key">Here is my test string value</string>
+</resources>
